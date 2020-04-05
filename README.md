@@ -5,7 +5,7 @@ This project was generated with [.NET Core CLI](https://docs.microsoft.com/tr-tr
 
 ## Set up
 
-1 - Clone this project running `https://github.com/piyazilim/LogoTodoWebAPI.git` in your terminal. If you haven't git installed can simply download it and unzip it.
+1 - Clone this project running `git clone https://github.com/piyazilim/LogoTodoWebAPI.git` in your terminal. If you haven't git installed can simply download it and unzip it.
 
 2 - Go to the `LogoTodoWebAPI/WebApi` folder by running the command `cd LogoTodoWebAPI/WebApi` or manually navigating into the file system.
 
